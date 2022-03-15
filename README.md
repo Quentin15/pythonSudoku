@@ -1,3 +1,5 @@
+# Projet Sudoku - Python
+
 __Sudoku réalisé dans le cadre d'un projet en Python, en 1ère année de licence.__
 
 `COMMENT Y ACCEDER`
